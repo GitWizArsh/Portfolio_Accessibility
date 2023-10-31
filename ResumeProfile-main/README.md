@@ -1,2 +1,0 @@
-# ResumeProfile
-Arshdeep Resume
